@@ -1,2 +1,4 @@
 今天安装了maven         参考教程：（https://www.cnblogs.com/platycoden/p/8313503.html）一次成功。
 安装redis
+大概了解了项目
+开始学习SSM
